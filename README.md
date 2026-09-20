@@ -7,6 +7,7 @@ Little nuggets for my AI agents. Hunting kits, mindset docs, reusable playbooks,
 | Nugget | What it is |
 |---|---|
 | [ghost-architect-kit](ghost-architect-kit/) | Complete bug bounty hunting system: the Ghost Architect operating spec, a living primitive/bypass library, a fillable post-hunt reflection template, cross-linked with the CTBB playbook |
+| [self-improving-hunter-agent](self-improving-hunter-agent/) | Architecture for a self-improving bounty hunter agent: Ghost Architect loops as the brain, pqliar CLI as the hands, sqlite memory that compounds every hunt, guardrails-first design |
 ## Disclaimer
 
 Do what you want with it. I am not liable for any negatives that may arise from the use of this. It's for symbiotic bounty hunters.
